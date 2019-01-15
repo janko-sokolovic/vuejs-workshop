@@ -1,15 +1,12 @@
 <template>
     <div id="app">
-        <animal-list/>
+        <router-view></router-view>
     </div>
 </template>
 
 <script>
-    import AnimalList from './components/AnimalList';
-
     export default {
-        name: 'app',
-        components : {AnimalList}
+        name: 'app'
     };
 </script>
 
