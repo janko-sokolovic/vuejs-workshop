@@ -10,7 +10,5 @@
 </script>
 
 <style>
-    #app {
-
-    }
+    @import 'App.scss';
 </style>
