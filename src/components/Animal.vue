@@ -17,7 +17,7 @@
 
 <style scoped lang="scss">
     .animal {
-        width: 115px;
+        width: 120px;
         display: inline-block;
         background: #fafafa;
         margin: 5px;
